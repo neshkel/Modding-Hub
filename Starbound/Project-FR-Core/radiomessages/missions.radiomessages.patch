@@ -1,0 +1,88 @@
+[
+  /* LUNAR BASE */
+  { "op": "replace", "path": "/lunarbase01/text", "value": "Toutes les lectures de vie émanent d'une grande profondeur sous la surface. Ces relevés sont... difficiles à définir. Félicitations d'avance pour votre courage." },
+  { "op": "replace", "path": "/lunarbase02/text", "value": "Il semble que le verrouillage ait été instauré. Vous devez localiser un disjoncteur pour rétablir le courant. Veuillez progresser avec prudence dans ces conditions de faible luminosité." },
+  { "op": "replace", "path": "/lunarbase03/text", "value": "Je détecte à la fois des signatures chimiques d'Erchius et de l'ADN humain dans ces entités. Probabilité élevée de volatilité comportementale prédite." },
+  { "op": "replace", "path": "/lunarbase04/text", "value": "Les relevés d'Erchius ont atteint 94 rad. Vous êtes en péril. Votre niveau de Péril est actuellement de 14 607 morts." },
+  { "op": "replace", "path": "/lunarbase04a/text", "value": "Désolée pour l'IA, mon enfant." },
+  { "op": "replace", "path": "/lunarbase05/text", "value": "Regardez-les ; un contact prolongé avec les cristaux d'Erchius semble avoir dénaturé leur être même ! Ces pauvres créatures se sont complètement perdues." },
+  { "op": "replace", "path": "/lunarbase06/text", "value": "Les relevés d'Erchius ont atteint 101 rad. Votre niveau de Péril actuel est de 18 472 morts..." },
+  { "op": "replace", "path": "/lunarbase06a/text", "value": "Chut ! Tu n'aides pas." },
+  { "op": "replace", "path": "/lunarbase07/text", "value": "Les armes conventionnelles ont environ 0 % de chances d'endommager le cristal d'Erchius. Vous êtes invité à concevoir un autre moyen d'attaque." },
+  { "op": "replace", "path": "/lunarbase08/text", "value": "Bien joué !" },
+  { "op": "replace", "path": "/lunarbase08a/text", "value": "Il y a assez d'Erchius ici pour réparer entièrement le vaisseau." },
+
+  /* FLORAN MISSION */
+  { "op": "replace", "path": "/floranmission101/text", "value": "Ces ruines sont anciennes et semblent être sacrées pour les Florans. Les relevés indiquent qu'elles sont également sombres et inquiétantes." },
+  { "op": "replace", "path": "/floranmission102/text", "value": "Les relevés bio indiquent de nombreux signes de vie dans ces tunnels. 97 % d'entre eux sont hostiles. Je salue votre bravoure." },
+  { "op": "replace", "path": "/floranmission103/text", "value": "Quelle Floran fougueuse ! Elle me rappelle moi-même quand j'étais plus jeune, bien que j'eusse moins de feuilles." },
+  { "op": "replace", "path": "/floranmission104/text", "value": "Quoi que ces Florans poursuivent, c'est manifestement d'une importance capitale pour eux. Ils sont pires que moi lors d'une chasse aux insectes ! Fais attention, mon enfant." },
+  { "op": "replace", "path": "/floranmission105/text", "value": "Cette substance est organique. L'analyse n'est pas concluante, mais il faudrait une créature assez imposante pour produire autant de matière." },
+  { "op": "replace", "path": "/floranmission106/text", "value": "Les indices indiquent que ces entités ne sont pas encore matures ; il est fort probable qu'elles viennent d'éclore. Il semblerait que vous soyez tombé sur un nid." },
+
+  /* APEX MISSION */
+  { "op": "replace", "path": "/apexmission01/text", "value": "On dirait que nous tombons en pleine attaque rebelle contre le Miniknog. Je pense que ce sera avantageux pour eux comme pour nous, mon enfant." },
+  { "op": "replace", "path": "/apexmission02/text", "value": "Les scans montrent que cette installation est lourdement défendue par des gardes armés patrouillant à chaque étage." },
+  { "op": "replace", "path": "/apexmission02a/text", "value": "Mes scanners viennent de détecter un autre garde... Et encore un autre." },
+  { "op": "replace", "path": "/apexmission03/text", "value": "C'est un circuit lié : l'abaissement de cette barricade en a abaissé une correspondante à la surface." },
+  { "op": "replace", "path": "/apexmission03a/text", "value": "On dirait que nous pouvons avoir un impact positif sur la guerre des rebelles contre l'oppression ! Merveilleux. Chaque petit geste compte." },
+  { "op": "replace", "path": "/apexmission04/text", "value": "Il y a une autre barricade à la surface alimentée par ce générateur blindé. Je pense que si vous coupez les boucliers, vous pourrez ensuite désactiver l'alimentation, ce qui fera tomber la barricade." },
+  { "op": "replace", "path": "/apexmission04a/text", "value": "J'applaudis votre cran tenace dans la poursuite d'objectifs complexes." },
+  { "op": "replace", "path": "/apexmission05/text", "value": "Il y a d'étranges signes de vie ici, dans les profondeurs du laboratoire." },
+  { "op": "replace", "path": "/apexmission06/text", "value": "C'est un bastion bien établi du Miniknog... Je sais que tu es toujours prudente, mon enfant, mais je pense qu'il faut redoubler de vigilance cette fois..." },
+  { "op": "replace", "path": "/apexmission06a/text", "value": "Big Ape est un ennemi extrêmement dangereux." },
+
+  /* AVIAN MISSION */
+  { "op": "replace", "path": "/avianmission01/text", "value": "Mieux vaut chercher un moyen d'entrer pendant qu'il dort, mon enfant. Nous ne voudrions pas l'inquiéter." },
+  { "op": "replace", "path": "/avianmission02/text", "value": "Les données précédentes suggéraient qu'un temple aussi ancien ne pourrait maintenir un système de sécurité aussi mortel... Recalibrage des Paramètres d'Intimation." },
+  { "op": "replace", "path": "/avianmission03/text", "value": "Division de chemin détectée. Je conseillerais de ne prendre ni le chemin de droite, ni celui de gauche. Hélas, ce n'est pas une option." },
+  { "op": "replace", "path": "/avianmission04/text", "value": "Je. Détestte. Le. Feu." },
+  { "op": "replace", "path": "/avianmission05/text", "value": "Tu doiss l'ÉVITER ! Tu ne peux pass le poignarder ! Tu ne peux pass lui tirer dessuss ! Tu doiss juste rrrôder en espérant qu'il ne te remarque pass." },
+  { "op": "replace", "path": "/avianmission06/text", "value": "Cet endroit est plutôt accueillant... Sans les pointes abominables, bien sûr. Évidemment..." },
+
+  /* HYLOTL MISSION */
+  { "op": "replace", "path": "/hylotlmission01/text", "value": "Cette île abrite l'entrée de la « Grande Bibliothèque de la Pagode »." },
+  { "op": "replace", "path": "/hylotlmission02/text", "value": "Lecture actuelle de la pression extérieure : 15 quash. Les scans montrent que cette structure peut résister à plus de 80 quash. Chances de survie : étonnamment élevées." },
+  { "op": "replace", "path": "/hylotlmission03/text", "value": "Vous approchez maintenant du sous-sol. Mes relevés sont faussés mais je peux estimer votre niveau de Péril si vous le souhaitez..." },
+  { "op": "replace", "path": "/hylotlmission03a/text", "value": "J'ai entendu parler de ces sectateurs, mais j'en sais peu sur eux... Je me demande si... Qui peut le dire." },
+  { "op": "replace", "path": "/hylotlmission03b/text", "value": "Ne t'en fais pass pour ça ! Les sstrangers meurtriers ssont totalement ta sspécialité." },
+  { "op": "replace", "path": "/hylotlmission04/text", "value": "Cette femme... Sa voix... Serait-ce possible, après tout ce temps ?" },
+  { "op": "replace", "path": "/hylotlmission05/text", "value": "Après analyse des données, j'en conclus qu'il aurait dû être impossible d'atteindre cette pièce en vie. Félicitations pour votre persévérance acharnée face à la raison !" },
+
+  /* GLITCH MISSION */
+  { "op": "replace", "path": "/glitchmission01/text", "value": "Ce donjon appartient à un Glitch connu sous le nom du Baron. C'est un héros à la retraite, et de l'avis général, un peu... excentrique..." },
+  { "op": "replace", "path": "/glitchmission01a/text", "value": "Il a peut-être quelques boulons desserrés, mon enfant, mais il n'est pas dangereux." },
+
+  /* TENTACLE MISSION */
+  { "op": "replace", "path": "/tentaclemission-arrived/text", "value": "Les relevés indiquent que bien que cette structure semble être une planète, il s'agit en fait d'un seul organisme vivant géant." },
+  { "op": "replace", "path": "/tentaclemission-arrived2/text", "value": "Tu te trouves sur la Ruine, mon enfant. Tu ne peux pas faire beaucoup de dégâts à sa surface - tu vas devoir t'enfoncer dans ses entrailles." },
+  { "op": "replace", "path": "/tentaclemission-arrived3/text", "value": "Fais attention là-bas. Chaque créature et substance que tu rencontreras sera forcément hostile..." },
+  { "op": "replace", "path": "/tentaclemission-bottom/text", "value": "Les relevés montrent qu'il y a un vaste gouffre sous vos pieds qui s'étend à des brasses de profondeur. Je vous conseille d'essayer d'éviter de tomber vers votre mort." },
+  { "op": "replace", "path": "/tentaclemission-bottom2/text", "value": "SAIL a raison, il y a un vide juste sous tes pieds ; un fossé immense entre toi et la structure centrale de la Ruine. Tu vas devoir trouver un moyen sûr de descendre." },
+
+  /* FIN DE LA RUINE */
+  { "op": "replace", "path": "/tentaclemission-bossroom/text", "value": "Vous avez atteint le cœur de la Ruine. Vous devez le détruire." },
+  { "op": "replace", "path": "/tentaclemission-bossroom2/text", "value": "Que Kluex vous guide." },
+  { "op": "replace", "path": "/tentaclemission-destruction1/text", "value": "Vous avez réussi ! ... Mais quelque chose ne va pas. La Ruine... Sa structure est instable !" },
+  { "op": "replace", "path": "/tentaclemission-destruction2/text", "value": "Ça va exploser ! Sortez de là !" },
+  { "op": "replace", "path": "/tentaclemission-destruction3/text", "value": "Ne lui diss pass quoi faire, tête de poissson ! Ilss en ont déjà vu d'autress bien piress !" },
+
+  /* MISSION DES CULTISTES (Dantalion) */
+  { "op": "replace", "path": "/cultistmission01a/text", "value": "Ainsi, vous l'avez trouvée... Vous avez trouvé Asra." },
+  { "op": "replace", "path": "/cultistmission01b/text", "value": "Est-ce la légendaire Esther Bright que j'entends sur votre ligne, partenaire ?! Madame, c'est un honneur de vous rencontrer !" },
+  { "op": "replace", "path": "/cultistmission01c/text", "value": "Tout le plaisir est pour moi, mon enfant !" },
+  { "op": "replace", "path": "/cultistmission02/text", "value": "Il semblerait que vous puissiez, euh, invoquer votre Mech avec cette plateforme. Cela devrait s'avérer utile pour votre excursion actuelle." },
+  { "op": "replace", "path": "/cultistmission03a/text", "value": "Il est fort heureux que la forteresse volante de notre ennemi possède des protocoles de sécurité aussi faibles." },
+  { "op": "replace", "path": "/cultistmission03b/text", "value": "Montrez-nous vos talents de piratage, partenaire !" },
+  { "op": "replace", "path": "/cultistmission03c/text", "value": "Impressionné. Malgré leurs méfaits, ces répugnants cultistes savent au moins garder leurs latrines étincelantes ! Ha ha !" },
+  { "op": "replace", "path": "/cultistmission04a/text", "value": "Un frigo ! Je me demande ce que les méchantss mangent au petit-déjeuner ?" },
+  { "op": "replace", "path": "/cultistmission04b/text", "value": "Amusé. Peut-être mangent-ils... des pommes pourries ? Ho ho ! Mon esprit est impeccable !" },
+  { "op": "replace", "path": "/cultistmission05a/text", "value": "Vous faites de bons progrès, partenaire. Ce vaisseau est vraiment vaste, n'est-ce pas ?" },
+  { "op": "replace", "path": "/cultistmission05b/text", "value": "Ma parole, il est assez grand pour rivaliser avec les plus grands temples divins de Kluex !" },
+  { "op": "replace", "path": "/cultistmission06a/text", "value": "À qui appartient ce canal de communication ?! Pourquoi êtes-vous à bord du Dantalion ?!" },
+  { "op": "replace", "path": "/cultistmission06b/text", "value": "Oh. C'est ^orange;toi^white;." },
+  { "op": "replace", "path": "/cultistmission07/text", "value": "Oh Asra, quand ton obsession pour la Ruine prendra-t-elle fin ?" },
+  { "op": "replace", "path": "/cultistmission08/text", "value": "Je n'aime pas du tout l'allure de tout ça, partenaire." },
+  { "op": "replace", "path": "/cultistmission09a/text", "value": "Ne me fais pas attendre, « Protecteur »." },
+  { "op": "replace", "path": "/cultistmission09b/text", "value": "Je crois que nous y sommes, mon enfant. J'espère que vous êtes prêt..." }
+]

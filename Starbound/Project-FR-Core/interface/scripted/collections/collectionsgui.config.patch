@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/selectLabel/value","value":"Collection"},{"op":"replace","path":"/gui/emptyLabel/value","value":"Séléctionner une collection à gauche."},{"op":"replace","path":"/gui/windowtitle/title","value":"Bibliothèque de Collection  "},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Listez tout ce que vous avez vu et fait!"}]

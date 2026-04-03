@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":" SBVN"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":""},{"op":"replace","path":"/gui/lblText/value","value":"[no game loaded]"},{"op":"replace","path":"/gui/lblOptions/value","value":""}]

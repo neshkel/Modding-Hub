@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"Marchand de Biens"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Échangez des biens entre stations pour le profit"},{"op":"replace","path":"/gui/btnBuy/caption","value":"ACHETER"},{"op":"replace","path":"/gui/btnSell/caption","value":"VENDRE"}]

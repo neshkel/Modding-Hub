@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/title","value":"^orange;Prime"},{"op":"replace","path":"/text","value":"Éliminez la cible"},{"op":"replace","path":"/completionText","value":"Génération de la prime en cours"}]

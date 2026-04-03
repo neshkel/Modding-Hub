@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/paneLayout/ok/caption","value":"Accepter"},{"op":"replace","path":"/paneLayout/remove/caption","value":"Supprimer"},{"op":"replace","path":"/paneLayout/close/caption","value":"Annuler"},{"op":"replace","path":"/paneLayout/lblTitle/value","value":"Nouveau Signet"}]

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/title","value":"Quitter la Mission"},{"op":"replace","path":"/subtitle","value":"Retour au vaisseau"},{"op":"replace","path":"/message","value":"Quitter cette mission réinitialisera votre progression dans cette zone. Êtes-vous sûr de vouloir vous téléporter?"}]

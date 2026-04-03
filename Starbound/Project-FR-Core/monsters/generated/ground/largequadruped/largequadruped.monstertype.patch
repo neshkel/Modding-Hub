@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/baseParameters/baseSkills/0","value":"chargeAttack"},{"op":"replace","path":"/baseParameters/baseSkills/1","value":"pounceAttack"}]

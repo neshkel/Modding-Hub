@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/swapGender/caption","value":"Changer de Sexe"},{"op":"replace","path":"/gui/equipFunctional/caption","value":"Équiper (Stats)"},{"op":"replace","path":"/gui/equipCosmetic/caption","value":"Équiper (Style)"}]

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/messages/alreadyKnown","value":"Codex déjà connu."},{"op":"replace","path":"/messages/learned","value":"Codex ajouter au journal!"}]

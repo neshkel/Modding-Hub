@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/destinations/0/name","value":"Téléportation"},{"op":"replace","path":"/destinations/0/planetName","value":"Monde en orbite"},{"op":"replace","path":"/destinations/1/name","value":"Déployer le Mécha"},{"op":"replace","path":"/destinations/1/planetName","value":"Monde en orbite"}]

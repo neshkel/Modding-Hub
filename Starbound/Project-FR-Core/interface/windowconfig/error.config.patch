@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/paneLayout/windowtitle/title","value":""},{"op":"replace","path":"/paneLayout/windowtitle/subtitle","value":""},{"op":"replace","path":"/paneLayout/btnOk/caption","value":"OK"},{"op":"replace","path":"/paneLayout/labelError/value","value":"Une erreur est survenue.."}]

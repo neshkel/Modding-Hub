@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/categories/0","value":"largefish"},{"op":"replace","path":"/parts/0","value":"head"},{"op":"replace","path":"/parts/1","value":"tail"},{"op":"replace","path":"/parts/2","value":"fin"},{"op":"replace","path":"/dropPools/0/default","value":"largefishtreasure"}]

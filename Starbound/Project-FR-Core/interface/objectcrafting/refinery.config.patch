@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/toggleCrafting/caption","value":"Rafiner"},{"op":"replace","path":"/gui/lblText/value","value":"^#b9b5b2;Placer le minerai dans l'emp. de gauche pour le rafiner en pixels."}]

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/serverAssetsMismatchMessage","value":"Ce serveur refuse les connexions des clients possédant des fichiers (assets) différents."},{"op":"replace","path":"/clientAssetsMismatchMessage","value":"Différence de fichiers (assets) entre le client et le serveur, et l'option de forçage (override) n'est pas activée."}]

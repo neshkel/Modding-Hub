@@ -1,0 +1,43 @@
+# ========================================================
+#            MODDING HUB - MASTER GITIGNORE
+# ========================================================
+
+# --- System & OS Garbage ---
+# Ignore OS-specific hidden files and temporary clutter
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+desktop.ini
+
+# --- The Development Vault ---
+# This ignores your local lab: _Archive, _Workbench, _Library, _Automation...
+# These files are backed up via your .bat script but stay off GitHub.
+**/_Vault/
+
+# --- Starbound Specifics ---
+# Ignore Steam config files, local saves, and game logs
+**/steamtext_info.txt
+
+# --- Out of Scope Projects ---
+# Local directories for other games that shouldn't be synced here
+/Kenshi/
+/ProjectZomboid/
+/Valheim/
+
+# --- IDE & Text Editors ---
+# Ignore workspace configurations (VS Code, Sublime, IntelliJ)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- Compressed Archives ---
+# Do not version control archives; use GitHub Releases for distribution
+*.zip
+*.rar
+*.7z
+
+# ========================================================
+#  Note: Only "Project-FR-Core" & main docs are tracked.
+# ========================================================

@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/categories/0","value":"apebossprojector"},{"op":"replace","path":"/parts/0","value":"projector"},{"op":"replace","path":"/parts/1","value":"booster"},{"op":"replace","path":"/parts/2","value":"lamp"},{"op":"replace","path":"/baseParameters/movementSettings/physicsEffectCategories/0","value":"boss"}]

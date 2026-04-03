@@ -1,0 +1,36 @@
+[
+  { "op": "replace", "path": "/basicHelpText", "value": "Les commandes de base sont : %s" },
+  { "op": "replace", "path": "/adminHelpText", "value": "Les commandes d'administrateur sont : %s" },
+  { "op": "replace", "path": "/debugHelpText", "value": "Les commandes de débuggage sont : %s" },
+
+  /* Basic Commands */
+  { "op": "replace", "path": "/basicCommands/help", "value": "Utilisation : /help [nomCommande] pour obtenir une documentation détaillée." },
+  { "op": "replace", "path": "/basicCommands/admin", "value": "Utilisation : /admin. Active ou désactive le mode administrateur (débloque toutes les recettes, annule les dégâts/perte d'énergie et donne accès aux commandes admin)." },
+  { "op": "replace", "path": "/basicCommands/reload", "value": "Utilisation : /reload. Recharge vos ressources locales (client). Provoquera un ralentissement durant le traitement." },
+  { "op": "replace", "path": "/basicCommands/whoami", "value": "Utilisation : /whoami. Affiche votre nom d'utilisateur local et votre statut admin." },
+  { "op": "replace", "path": "/basicCommands/serverwhoami", "value": "Utilisation : /serverwhoami. Affiche votre nom d'utilisateur sur le serveur et votre statut admin." },
+  { "op": "replace", "path": "/basicCommands/whereami", "value": "Utilisation : /whereami. Affiche les coordonnées célestes de votre position actuelle." },
+  { "op": "replace", "path": "/basicCommands/pvp", "value": "Utilisation : /pvp. Active ou désactive le mode Joueur contre Joueur (PvP)." },
+  { "op": "replace", "path": "/basicCommands/played", "value": "Utilisation : /played. Affiche le temps de jeu total du personnage actuel." },
+  { "op": "replace", "path": "/basicCommands/deaths", "value": "Utilisation : /deaths. Affiche le nombre total de morts du personnage actuel." },
+  { "op": "replace", "path": "/basicCommands/suicide", "value": "Utilisation : /suicide. Tue le personnage actuel, entraînant toutes les pénalités de mort normales (y compris la mort permanente !). À utiliser en dernier recours si vous êtes coincé." },
+  { "op": "replace", "path": "/basicCommands/naked", "value": "Utilisation : /naked. Retire tout l'équipement. Utile pour les macros ou... juste pour s'amuser." },
+
+  /* Admin Commands (Sélection des principales) */
+  { "op": "replace", "path": "/adminCommands/warp", "value": "Utilisation : /warp [action]. Téléporte le joueur. Formats valides : OwnShip, OrbitedWorld, CelestialWorld:coordonnées, Player:uuid, etc." },
+  { "op": "replace", "path": "/adminCommands/timewarp", "value": "Utilisation : /timewarp [temps]. Avance le temps de l'univers du nombre de secondes spécifié." },
+  { "op": "replace", "path": "/adminCommands/settileprotection", "value": "Utilisation : /settileprotection [idDonjon] [true/false]. Définit si les blocs d'un donjon sont incassables (true) ou non (false)." },
+  { "op": "replace", "path": "/adminCommands/setspawnpoint", "value": "Utilisation : /setspawnpoint. Définit le point d'apparition par défaut du monde actuel à votre position." },
+  { "op": "replace", "path": "/adminCommands/spawnitem", "value": "Utilisation : /spawnitem [nomObjet] [quantité] [paramètres]. Génère l'objet spécifié sur le curseur de la souris." },
+  { "op": "replace", "path": "/adminCommands/spawnmonster", "value": "Utilisation : /spawnmonster [type] [niveau] [paramètres]. Génère un monstre sur le curseur de la souris." },
+  { "op": "replace", "path": "/adminCommands/spawnnpc", "value": "Utilisation : /spawnnpc [espèce] [type] [niveau]. Génère un PNJ sur le curseur de la souris." },
+  { "op": "replace", "path": "/adminCommands/kick", "value": "Utilisation : /kick [joueur] [raison]. Expulse le joueur spécifié du serveur." },
+  { "op": "replace", "path": "/adminCommands/ban", "value": "Utilisation : /ban [joueur] [raison] [type] [temps]. Expulse et bannit le joueur spécifié." },
+  { "op": "replace", "path": "/adminCommands/list", "value": "Utilisation : /list. Liste tous les clients connectés au serveur." },
+
+  /* Debug Commands (Sélection) */
+  { "op": "replace", "path": "/debugCommands/debug", "value": "Utilisation : /debug. Active le mode de débuggage." },
+  { "op": "replace", "path": "/debugCommands/fullbright", "value": "Utilisation : /fullbright. Désactive le moteur d'éclairage pour tout voir." },
+  { "op": "replace", "path": "/debugCommands/setgravity", "value": "Utilisation : /setgravity [niveau]. Modifie votre gravité locale. Les valeurs négatives vous font tomber vers le haut." },
+  { "op": "replace", "path": "/debugCommands/upgradeship", "value": "Utilisation : /upgradeship [JSON]. Applique les améliorations de vaisseau spécifiées." }
+]

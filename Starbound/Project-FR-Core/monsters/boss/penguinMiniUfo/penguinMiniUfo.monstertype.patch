@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/parts/0","value":"ufo"},{"op":"replace","path":"/dropPools/0","value":"money"},{"op":"replace","path":"/baseParameters/movementSettings/physicsEffectCategories/0","value":"boss"}]

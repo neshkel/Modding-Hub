@@ -1,0 +1,66 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
+
+By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License ("Public License"). 
+
+Section 1 – Definitions.
+
+a. Adapted Material: Material derived from or based upon the Licensed Material (translations, scripts, assets, or modifications).
+b. Adapter's License: The license You apply to Your contributions to Adapted Material.
+c. Licensed Material: The artistic works, database, scripts, or other materials found within this repository to which I applied this Public License.
+d. Licensor: The individual granting rights under this Public License. In this case, the author and maintainer of this repository.
+e. NonCommercial: Not primarily intended for or directed towards commercial advantage or monetary compensation.
+f. You: The individual or entity exercising the Licensed Rights under this Public License.
+
+Section 2 – Scope.
+
+a. License grant.
+1. I hereby grant You a worldwide, royalty-free, non-sublicensable, non-exclusive, irrevocable license to exercise the Licensed Rights in the Licensed Material to:
+   A. Reproduce and Share the Licensed Material, in whole or in part, for NonCommercial purposes only;
+   B. Produce, reproduce, and Share Adapted Material for NonCommercial purposes only.
+
+Section 3 – License Conditions.
+
+a. Attribution.
+If You Share the Licensed Material (including in modified form), You must:
+1. Retain identification of the creator(s);
+2. Retain a copyright notice;
+3. Notice that refers to this Public License;
+4. Indicate if You modified the Licensed Material.
+
+b. ShareAlike.
+If You Share Adapted Material You produce, the Adapter’s License You apply must be a Creative Commons license with the same License Elements (BY-NC-SA), this version or later.
+
+Section 4 – Disclaimer of Warranties and Limitation of Liability.
+
+a. The Licensed Material is offered as-is and as-available. I make no representations or warranties of any kind.
+b. In no event will I be liable to You for any losses arising out of this Public License or use of the Licensed Material.
+
+Section 5 – Term and Termination.
+
+a. This Public License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply, Your rights terminate automatically.
+
+Section 6 – Interpretation.
+
+a. This Public License shall not be interpreted to reduce, limit, or restrict any use of the Licensed Material that could lawfully be made without permission.
+b. If any provision is deemed unenforceable, it shall be reformed to the minimum extent necessary to make it enforceable.
+
+-------------------------------------------------------------------------
+SECTION 7 – SPECIAL PROJECT CREDITS & ATTRIBUTIONS
+-------------------------------------------------------------------------
+
+This repository contains various projects. Specific credits for major works are listed below to acknowledge historical contributions:
+
+A. STARBOUND: PROJECT FR (Core Engine)
+While the engine, modern dictionary structures, and scripts have been rebuilt from scratch for this project, I have chosen to include specific assets originally created by the "Starbound FR" translation team to maintain visual and community continuity.
+
+I wish to credit the following original contributors for their foundational work:
+- Project Lead: Yohann Catherine
+- Steam Icon & Graphics: Mickael30HG
+- Outpost & UI Image Translations: Pho3niX
+- Foundation Team: Shyning, LoGeek, Phaenix, Canarder
+
+B. OTHER PROJECTS
+Credits for other games or tools included in this repository are specified within their respective sub-folders via README or metadata files.
+
+-------------------------------------------------------------------------
+For the full legal code, visit: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode

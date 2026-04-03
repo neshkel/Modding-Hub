@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/areYouSure/value","value":"Êtes-vous sûr de vouloir \nsupprimer votre personnage?"},{"op":"replace","path":"/delete/caption","value":"Supprimer"},{"op":"replace","path":"/cancel/caption","value":"Annuler"}]

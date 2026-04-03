@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"Console de Portail Antique"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Activée avec des fragments"},{"op":"replace","path":"/gui/costDescription/value","value":"FRAGMENTS REQUIS"},{"op":"replace","path":"/gui/costLabel/value","value":"0 / --"}]

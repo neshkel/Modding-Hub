@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"Console du Portail du Sanctuaire"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Activable avec la clé du Sanctuaire"},{"op":"replace","path":"/gui/costDescription/value","value":"CLÉ SANCTUAIRE"},{"op":"replace","path":"/gui/costLabel/value","value":"0 / --"}]

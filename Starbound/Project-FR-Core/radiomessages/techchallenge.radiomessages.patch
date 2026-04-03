@@ -1,0 +1,47 @@
+[
+  /* PULSE JUMP / DOUBLE SAUT */
+  {
+    "op": "replace",
+    "path": "/techchallenge_doublejump1/text",
+    "value": "Pour utiliser la ^orange;Technologie Saut Pulsé^white;, ^#71f2f6;appuyez sur la barre d'espace en étant en l'air^white;. Cela vous donnera une petite impulsion vers le haut."
+  },
+  {
+    "op": "replace",
+    "path": "/techchallenge_doublejump2/text",
+    "value": "La télémétrie indique que pour réussir ce saut, vous devriez ^#71f2f6;attendre d'être au niveau du bord de la plateforme cible^white; avant d'utiliser le ^orange;Saut Pulsé^white;."
+  },
+
+  /* DASH / RUEE */
+  {
+    "op": "replace",
+    "path": "/techchallenge_dash1/text",
+    "value": "Ce parcours d'obstacles nécessite l'utilisation de la ^orange;Technologie Ruée^white;. Pour l'utiliser, ^#71f2f6;appuyez deux fois rapidement sur A ou D pour foncer à gauche ou à droite^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/techchallenge_dash2/text",
+    "value": "Ces portes ne s'ouvrent que très brièvement. Vous devriez peut-être vous ^#71f2f6;placer près de la porte^white; avant d'^-#71f2f6;activer l'interrupteur et de passer en fonçant^white;."
+  },
+  {
+    "op": "replace",
+    "path": "/techchallenge_dash3/text",
+    "value": "Ces portes semblent être sur un ^orange;minuteur très limité^white;. Il est louable que vous ayez l'intention de persévérer malgré de telles frustrations."
+  },
+  {
+    "op": "replace",
+    "path": "/techchallenge_dash4/text",
+    "value": "Les relevés indiquent qu'il s'agit de ^orange;blasters cryogéniques^white;. Ils ne sont pas létaux, mais tout contact ralentira considérablement votre progression."
+  },
+
+  /* DISTORTION SPHERE / BOULE DE DISTORSION */
+  {
+    "op": "replace",
+    "path": "/techchallenge_morphball1/text",
+    "value": "^#71f2f6;Appuyez sur F pour utiliser la ^orange;Technologie Sphère de Distorsion^white; afin d'alterner avec une forme compressée."
+  },
+  {
+    "op": "replace",
+    "path": "/techchallenge_morphball2/text",
+    "value": "Il semble que vous devrez ^#71f2f6;activer votre ^orange;Sphère de Distorsion ^#71f2f6;en plein saut^white; pour pénétrer dans ce passage."
+  }
+]

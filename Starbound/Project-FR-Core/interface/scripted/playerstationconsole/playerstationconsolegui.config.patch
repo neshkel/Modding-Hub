@@ -1,0 +1,1 @@
+[{"op":"replace","path":"/gui/windowtitle/title","value":"Console de Station"},{"op":"replace","path":"/gui/windowtitle/subtitle","value":"Contrôlez les systèmes de votre station"},{"op":"replace","path":"/gui/lblGravity/value","value":"GRAVITÉ"},{"op":"replace","path":"/gui/lblHideExpansionSlots/value","value":"CACHER SLOTS D'EXTENSION"}]

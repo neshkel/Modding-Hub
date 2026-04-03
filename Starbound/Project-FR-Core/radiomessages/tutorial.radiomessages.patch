@@ -1,0 +1,40 @@
+[
+  /* ÉTATS DE FAIM */
+  { "op": "replace", "path": "/full/text", "value": "Je vois que vous mangez à votre faim ! Avec l'estomac plein, votre corps va lentement se régénérer et guérir." },
+  { "op": "replace", "path": "/hungry/text", "value": "La faiblesse que vous ressentez est probablement due à la faim. Vous devriez trouver de quoi manger afin de maintenir les fonctions vitales de votre corps." },
+  { "op": "replace", "path": "/starving/text", "value": "Vous mourez de faim ! Il est impératif que vous obteniez et consommiez de la nourriture immédiatement." },
+
+  /* MATÉRIAUX ET TABLES */
+  { "op": "replace", "path": "/pickuplogblock/text", "value": "Vous avez trouvé du bois. Mes banques de données m'indiquent que le bois est un matériau aux multiples usages. Je suggère d'abattre d'autres arbres et d'explorer votre menu de fabrication." },
+  { "op": "replace", "path": "/pickupinventorstable/text", "value": "Venez-vous de fabriquer une table d'inventeur ? J'estime que vos chances de survie ont augmenté de 7,2 %." },
+
+  /* OBJETS DIVERS */
+  { "op": "replace", "path": "/pickupseed/text", "value": "Je vois que vous avez découvert des graines. Je suggère de les planter dans de la terre labourée et de les arroser jusqu'à ce qu'elles poussent. Les outils nécessaires peuvent être fabriqués sur une table de cueillette." },
+  { "op": "replace", "path": "/pickupcampfire/text", "value": "Il semble que vous ayez découvert le feu. Mes banques de données m'indiquent que vous êtes la 714 milliardième personne à le faire. Félicitations ! Vous pouvez utiliser le feu pour cuire des aliments." },
+  { "op": "replace", "path": "/pickupflag/text", "value": "Je suis capable de reconfigurer le téléporteur du vaisseau pour vous téléporter directement à l'emplacement marqué par ce drapeau. Placez-le et interagissez avec lui pour lui donner un nom." },
+  { "op": "replace", "path": "/pickupcoal/text", "value": "Vous avez découvert du charbon ! Vous pouvez le transformer en torches pour éclairer votre chemin. Les risques d'incidents mortels augmentent considérablement dans l'obscurité." },
+  { "op": "replace", "path": "/pickupore/text", "value": "Vous avez découvert du minerai. Le minerai peut être transformé en lingots à l'aide d'un four ; les lingots sont utiles pour fabriquer divers équipements pouvant augmenter votre espérance de vie." },
+  { "op": "replace", "path": "/pickupcorefrag/text", "value": "Vous avez découvert un fragment de cœur ! Ce sont des objets utiles. J'estime que vous en aurez besoin d'au moins 20." },
+  { "op": "replace", "path": "/pickupplantfibre/text", "value": "Vous avez découvert des fibres végétales. Elles peuvent être tissées en tissus utiles sur un rouet." },
+  { "op": "replace", "path": "/pickupdye/text", "value": "Vous avez découvert de la teinture. Elle vous permet de colorer vos tenues à votre guise. Vous pouvez en appliquer une sur n'importe quelle pièce d'armure ou de vêtement avec un clic droit." },
+  { "op": "replace", "path": "/pickupepp/text", "value": "Vous avez obtenu un Pack de Protection Environnementale (EPP). Ces dispositifs spécialisés permettent à l'utilisateur de survivre dans des environnements autrement inhospitaliers. Vous pouvez aussi les améliorer avec des augmentations." },
+  { "op": "replace", "path": "/pickupaugment/text", "value": "Vous avez obtenu une augmentation. Ces modules offrent divers avantages. Installez-les sur un Pack de Protection Environnementale (EPP) avec un clic droit." },
+  { "op": "replace", "path": "/pickupcollar/text", "value": "Vous avez découvert un collier. Portés par un monstre apprivoisé, ces colliers offrent divers avantages. Vous pouvez les ajouter à un pod de capture rempli avec un clic droit." },
+  { "op": "replace", "path": "/pickupcapturepod/text", "value": "Vous avez obtenu un pod de capture. Un monstre peut y être capturé si sa santé est assez basse. Lancez-le sur un monstre pour le capturer. Les monstres capturés deviennent dociles." },
+  { "op": "replace", "path": "/pickupbow/text", "value": "Vous avez obtenu un arc. Terrasser un monstre avec cette arme augmente considérablement vos chances d'obtenir de la viande et des ingrédients de fabrication rares." },
+  { "op": "replace", "path": "/pickupmanipulatormodule/text", "value": "Vous avez obtenu un module de manipulateur. Avec assez de modules, vous pourrez améliorer votre Manipulateur de Matière depuis le panneau d'accès dans la barre d'outils de droite." },
+
+  /* RENCONTRES ET EXPLORATION */
+  { "op": "replace", "path": "/naturalcave1/text", "value": "Je détecte diverses signatures de vie dans cette mine. Si vous avez l'intention d'y chercher des fragments de cœur, je vous conseille de vous armer convenablement d'abord." },
+  { "op": "replace", "path": "/naturalcave2/text", "value": "Si vous n'avez pas confiance en vos capacités de combat, une solution alternative serait de creuser plus près du centre de la planète pour trouver les fragments de cœur." },
+  { "op": "replace", "path": "/challengedoor/text", "value": "Cette porte vous transportera dans une salle de défi que vous pourrez tenter de traverser. J'applaudis votre tempérament intrépide." },
+
+  /* CARBURANT */
+  { "op": "replace", "path": "/fuel/text", "value": "Le carburant Erchius pour votre moteur FTL peut être extrait des lunes. Notez que depuis la destruction de la Terre, toutes les lunes scannées renvoient des relevés étranges, déplaisants et indéchiffrables." },
+
+  /* PEACEKEEPERS (CAPTAIN NOBLE) */
+  { "op": "replace", "path": "/peacekeeper02/text", "value": "J'espère que vous aimez la nouvelle station, partenaire ! On a même un ^orange;magasin de fournitures de Peacekeeper^white; maintenant !" },
+  { "op": "replace", "path": "/peacekeeper03/text", "value": "La nouvelle station n'est pas trop mal, si je puis dire ! On monte en grade, partenaire !" },
+  { "op": "replace", "path": "/peacekeeper04/text", "value": "Bienvenue dans notre superbe nouveau QG, partenaire ! Pourquoi ne pas jeter un œil à notre ^orange;magasin d'ameublement de Peacekeeper^white; ?" },
+  { "op": "replace", "path": "/peacekeeper05/text", "value": "On a enfin réussi, partenaire ! Les Peacekeepers sont bel et bien de retour, et ils ont plus fière allure que jamais !" }
+]

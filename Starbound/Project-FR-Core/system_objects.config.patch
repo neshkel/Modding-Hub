@@ -1,0 +1,187 @@
+[
+  /* STATIC LOCATION */
+  {
+    "op": "replace",
+    "path": "/spacestation_electronics/parameters/displayName",
+    "value": "Station Électronique"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_electronics/parameters/description",
+    "value": "Cette station tire profit de la microgravité pour fabriquer une grande variété de composants électroniques délicats."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/displayName",
+    "value": "Station de Distribution Alimentaire"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_food/parameters/description",
+    "value": "Même dans l'immensité de l'espace, il faut bien manger. Cette station produit et distribue des denrées adaptées aux goûts des divers extraterrestres."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/displayName",
+    "value": "Station de Recherche Médicale"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_medical/parameters/description",
+    "value": "Les chercheurs de cette station étudient les effets de la microgravité sur la physiologie afin de développer de nouveaux médicaments."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/displayName",
+    "value": "Station de Commerce d'Armes"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_weapons/parameters/description",
+    "value": "Des programmes gouvernementaux classés secrets aux scientifiques pingouins fous, l'espace regorge de gens créant de nouvelles armes passionnantes."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper1/parameters/displayName",
+    "value": "Station Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper1/parameters/description",
+    "value": "Un astéroïde abandonné, hâtivement réaménagé en centre pour les Peacekeepers."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper2/parameters/displayName",
+    "value": "Station Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper2/parameters/description",
+    "value": "Un bureau légèrement délabré, actuellement utilisé comme centre pour les Peacekeepers."
+  },
+
+  /* STATIONS PEACEKEEPER (SUITE) */
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper3/parameters/displayName",
+    "value": "Station Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper3/parameters/description",
+    "value": "Un centre pour les Peacekeepers, petit mais chaleureux."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper4/parameters/displayName",
+    "value": "Station Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper4/parameters/description",
+    "value": "Une grande station spatiale dotée de nombreuses installations, servant de centre pour les Peacekeepers."
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper5/parameters/displayName",
+    "value": "Station Peacekeeper"
+  },
+  {
+    "op": "replace",
+    "path": "/spacestation_peacekeeper5/parameters/description",
+    "value": "Une station spatiale élégante aux néons brillants, servant de centre pour les Peacekeepers."
+  },
+
+  /* STATION DU JOUEUR */
+  {
+    "op": "replace",
+    "path": "/playerstation/parameters/displayName",
+    "value": "Station Spatiale Personnelle"
+  },
+  {
+    "op": "replace",
+    "path": "/playerstation/parameters/description",
+    "value": "Cette station spatiale personnelle a été déployée par un autre aventurier. Il y a probablement des trucs sympas à voler."
+  },
+
+  /* VAISSEAUX HOSTILES */
+  {
+    "op": "replace",
+    "path": "/pirateship/parameters/displayName",
+    "value": "Vaisseau Hostile"
+  },
+  {
+    "op": "replace",
+    "path": "/pirateship/parameters/description",
+    "value": "Peu importe qui pilote ce vaisseau, nous ne devrions pas approcher sans être prêts à combattre."
+  },
+  {
+    "op": "replace",
+    "path": "/cultistship/parameters/displayName",
+    "value": "Vaisseau Hostile"
+  },
+  {
+    "op": "replace",
+    "path": "/cultistship/parameters/description",
+    "value": "Peu importe qui pilote ce vaisseau, nous ne devrions pas approcher sans être prêts à combattre."
+  },
+
+  /* VAISSEAUX AMICAUX */
+  {
+    "op": "replace",
+    "path": "/researchship/parameters/displayName",
+    "value": "Vaisseau Amical"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantindustrialship/parameters/displayName",
+    "value": "Vaisseau Amical"
+  },
+  {
+    "op": "replace",
+    "path": "/merchantastroship/parameters/displayName",
+    "value": "Vaisseau Amical"
+  },
+  {
+    "op": "replace",
+    "path": "/penguinship/parameters/displayName",
+    "value": "Vaisseau Amical"
+  },
+  {
+    "op": "replace",
+    "path": "/researchship/parameters/description",
+    "value": "Ce vaisseau accuse réception de nos communications et son capitaine nous invite cordialement à lui rendre visite."
+  },
+  /* Répétition de la description pour les autres vaisseaux marchands/amicaux */
+  { "op": "replace", "path": "/merchantindustrialship/parameters/description", "value": "Ce vaisseau accuse réception de nos communications et son capitaine nous invite cordialement à lui rendre visite." },
+  { "op": "replace", "path": "/merchantastroship/parameters/description", "value": "Ce vaisseau accuse réception de nos communications et son capitaine nous invite cordialement à lui rendre visite." },
+  { "op": "replace", "path": "/penguinship/parameters/description", "value": "Ce vaisseau accuse réception de nos communications et son capitaine nous invite cordialement à lui rendre visite." },
+
+  /* ANOMALIES ET CHASSEURS DE PRIMES */
+  {
+    "op": "replace",
+    "path": "/anomaly/parameters/description",
+    "value": "Des interférences célestes empêchent un scan détaillé, mais des relevés énergétiques anormaux ici méritent une enquête."
+  },
+  {
+    "op": "replace",
+    "path": "/bountyanomaly/parameters/displayName",
+    "value": "Repaire de Criminels"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyanomaly/parameters/description",
+    "value": "C'est ici que les criminels se cachent."
+  },
+  {
+    "op": "replace",
+    "path": "/bountyship/parameters/displayName",
+    "value": "Vaisseau Suspect"
+  },
+  {
+    "op": "replace",
+    "path": "/bountyship/parameters/description",
+    "value": "Peu importe qui pilote ce vaisseau, nous ne devrions pas approcher sans être prêts à combattre."
+  }
+]
