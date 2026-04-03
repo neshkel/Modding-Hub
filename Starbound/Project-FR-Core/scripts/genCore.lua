@@ -95,3 +95,27 @@ function generator.setByPath(config, parameters, path, value)
   nodeC[lastKey] = value
   nodeP[lastKey] = value
 end
+
+--- Global helper to retrieve a translation for a specific mod.
+--- Provides a safe fallback if the mod or the key is missing.
+--- @param modName string The technical name of the mod (folder in /ui/mods/).
+--- @param key string The translation key.
+--- @param default string The fallback text (usually English).
+--- @return string The translated string or the default value.
+function generator.getTMod(modName, path, default)
+  local gen = generator.getGenerics()
+  local node = gen.ui and gen.ui.mods and gen.ui.mods[modName]
+  
+  if not node then return default end
+
+  -- On découpe le chemin (ex: "theme.uiTitle")
+  for key in string.gmatch(path, "([^.]+)") do
+    if type(node) == "table" and node[key] then
+      node = node[key]
+    else
+      return default
+    end
+  end
+
+  return (type(node) == "string") and node or default
+end
