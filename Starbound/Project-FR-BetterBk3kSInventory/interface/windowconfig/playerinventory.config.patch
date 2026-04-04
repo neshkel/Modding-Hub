@@ -1,0 +1,83 @@
+[
+  {
+    "op": "replace",
+    "path": "/subtitle",
+    "value": "^#b9b5b2;Votre inventaire ^green;[I]"
+  },
+  {
+    "op": "replace",
+    "path": "/defaultPetNameLabel",
+    "value": "^#b9b5b2;FAMILIER"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/head/data/tooltipText",
+    "value": "Casque"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/chest/data/tooltipText",
+    "value": "Plastron"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/legs/data/tooltipText",
+    "value": "Jambière"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/back/data/tooltipText",
+    "value": "Dorsale"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/headCosmetic/data/tooltipText",
+    "value": "Tenue Casque"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/chestCosmetic/data/tooltipText",
+    "value": "Tenue Plastron"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/legsCosmetic/data/tooltipText",
+    "value": "Tenue Jambière"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/backCosmetic/data/tooltipText",
+    "value": "Tenue Dorsale"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelappearance/value",
+    "value": "Attaque"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelstats/value",
+    "value": "Défense"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labeltech/value",
+    "value": "HP"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/trash/data/tooltipText",
+    "value": "Poubelle"
+  },
+  {
+    "op": "add",
+    "path": "/paneLayout/labelinventory",
+    "value": {
+      "type" : "label",
+      "position" : [0, 0],
+      "hAnchor" : "mid",
+      "value" : "",
+      "color" : [185, 181, 178]
+    }
+  }
+]

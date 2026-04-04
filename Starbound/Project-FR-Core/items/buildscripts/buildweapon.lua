@@ -12,6 +12,9 @@ require "/scripts/genCore.lua"
 -- Injectors: Specialized data modules for tooltipsLabel, abilities, fishing, and combo protocols.
 require "/scripts/genInjectors.lua"
 
+-- Naming: Injection of the generated naming configuration
+require "/scripts/genNaming.lua"
+
 -- Tooltips: High-level rendering engine for localization and UI field mapping.
 require "/scripts/genTooltips.lua"
 -- =============================================================================
@@ -208,6 +211,14 @@ function build(directory, config, parameters, level, seed)
       config.elementalType = elementalType
       -- Process core tooltip data and localization mapping
       generator.generateTooltips(config, parameters, level, seed, "weapons")
+      
+      -- Inject dynamically generated name based on category and 'Gang/Junker' status
+      if generator.getRandomisedName and builderConfig.nameGenerator then
+        local category = config.category or parameters.category
+        local nameToTest = (parameters and parameters.itemName) or config.itemName or ""
+        local isJunker = nameToTest:lower():find("gang") ~= nil
+        parameters.shortdescription = generator.getRandomisedName(category, seed, isJunker)
+      end
     end)
     
     if not status then

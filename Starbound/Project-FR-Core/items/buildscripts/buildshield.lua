@@ -108,7 +108,7 @@ function build(directory, config, parameters, level, seed)
     local status, err = pcall(function()
       -- Process core tooltip data and localization mapping
       generator.generateTooltips(config, parameters, level, seed, "weapons")
-
+      
       -- Inject dynamically generated name based on category and 'Gang/Junker' status
       if generator.getRandomisedName and builderConfig.nameGenerator then
         local category = config.category or parameters.category

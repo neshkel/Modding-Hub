@@ -1,0 +1,15 @@
+{
+  "author" : "Neshkel",
+  "credits" : "Original mod by bk3000 and GoodGuy. Technical localization by Neshkel.",
+  "description" : "[h1]Project FR: Better Bk3k's Inventory - Expanded Interface Localization[/h1]\n\n[b]Project FR: Better Bk3k's Module[/b] is a dedicated localization extension designed to handle the massive interface overhaul of the bk3k inventory system. This module ensures that every new tab, slot, and statistics panel remains fully in French, even with the expanded 100+ slot layouts.\n\n[h2]✨ Features:[/h2]\n[list]\n[*] [b]Full Tab Localization:[/b] All 5 inventory categories (Main, Materials, Objects, Reagents, Food) are translated.\n[*] [b]Equipment & Vanity:[/b] Armor slots, social slots, and back items are fully localized with their respective tooltips.\n[*] [b]Pet & Player Stats:[/b] Detailed statistics panels and companion labels are translated for a seamless UI experience.\n[*] [b]Enhanced Compatibility:[/b] Designed to work alongside GGN interfaces and high-resolution UI tweaks.\n[/list]\n\n[h2]🛠️ Why use this module?[/h2]\nBetter Bk3k's Inventory is a deep modification that replaces the vanilla player inventory. Standard translation patches often miss the specific Lua-driven labels and expanded tabs. This module uses high-priority JSON patching to ensure French text is correctly applied to the new bk3k structures.\n\n[h2]📥 Requirements:[/h2]\nThis module is part of the Project FR ecosystem and is optimized for:\n[list]\n[*] [b]Better Bk3k's Inventory[/b] (The original mod by bk3k).\n[*] [b]Project FR: Core Engine[/b] (Optional, but recommended for advanced dynamic hooking).\n[/list]\n\n[h2]🚧 Status (v0.5):[/h2]\n[list]\n[*] [b]Inventory Tabs:[/b] 100%\n[*] [b]Equipment Slots:[/b] 100%\n[*] [b]Player/Pet Statistics:[/b] 100%\n[*] [b]GGN Interface Support:[/b] Integrated.\n[/list]\n\n[hr][/hr]\n\n[h3]📜 Credits & Acknowledgments:[/h3]\n[b]Project FR: Better Bk3k's Inventory[/b] is a localized enhancement of the original work by bk3k.\n[list]\n[*] [b]Localization & Patching:[/b] Created by [i]Neshkel[/i] to maintain consistency across the Project FR suite.\n[*] [b]Original Mod:[/b] The inventory expansion logic and UI design are the work of [b]bk3k[/b].\n[/list]\n\n[b]License:[/b] Released under CC BY-NC-SA 4.0.",
+  "friendlyName" : "Project FR: Better Bk3k's Inventory",
+  "includes" : ["project_fr_core", "bk3k_inventory", "ggn_interface"],
+  "license" : "CC BY-NC-SA 4.0",
+  "link" : "steam://url/CommunityFilePage/3698941082",
+  "name" : "project_fr_betterbk3ksinventory",
+  "priority" : 999,
+  "requires" : [],
+  "steamContentId" : "3698941082",
+  "tags" : "User Interface",
+  "version" : "1.0"
+}

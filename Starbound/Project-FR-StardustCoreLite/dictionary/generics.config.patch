@@ -1,1 +1,42 @@
-[{"op":"add","path":"/ui/mods/stardustCoreLite","value":{"pageTitle":"Paramètres","quickBar":{"starbound:mattermanipulator":"^essential;Manip. de Matière","starbound:navigation":"^essential;Navigation","starbound:techpanel":"^admin;Panneau Tech","starbound:mechassembly":"^admin;Assembleur Mech","metagui:settings":"Paramètres"},"theme":{"uiTitle":"Thèmes UI","settingsTitle":"Réglages du Thème","defaultInfoName":"Défaut (%s)","defaultInfoDesc":"Aucune préférence sélectionnée","starbound":{"name":"Classique","desc":"L'interface originale, sobre et efficace."},"carbon":{"name":"Carbon","desc":"Sombre, profilé et épuré."},"chroma":{"name":"Chroma","desc":"Un verre lisse, clair et resplendissant."}},"general":{"generalTitle":"Général","dismissQuickbar":"Fermer la barre après sélection","scrollingMode":"Mode de défilement","wheelFling":"Mixte","wheelOnly":"Molette","flingOnly":"Glissement"}}}]
+[
+  {
+    "op": "add",
+    "path": "/ui/mods/stardustCoreLite",
+    "value": {
+      "pageTitle": "Paramètres",
+      "quickBar": {
+        "starbound:mattermanipulator": "^essential;Manip. de Matière",
+        "starbound:navigation": "^essential;Navigation",
+        "starbound:techpanel": "^admin;Panneau Tech",
+        "starbound:mechassembly": "^admin;Assembleur Mech",
+        "metagui:settings": "Paramètres"
+      },
+      "theme": {
+        "uiTitle": "Thèmes UI",
+        "settingsTitle": "Réglages du Thème",
+        "defaultInfoName": "Défaut (%s)",
+        "defaultInfoDesc": "Aucune préférence sélectionnée",
+        "starbound": {
+          "name": "Classique",
+          "desc": "L'interface originale, sobre et efficace."
+        },
+        "carbon": {
+          "name": "Carbon",
+          "desc": "Sombre, profilé et épuré."
+        },
+        "chroma": {
+          "name": "Chroma",
+          "desc": "Un verre lisse, clair et resplendissant."
+        }
+      },
+      "general": {
+        "generalTitle": "Général",
+        "dismissQuickbar": "Fermer la barre après sélection",
+        "scrollingMode": "Mode de défilement",
+        "wheelFling": "Mixte",
+        "wheelOnly": "Molette",
+        "flingOnly": "Glissement"
+      }
+    }
+  }
+]
