@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "value": "Hylotl"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "value": "H2O"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Les paisibles Hylotls chérissent les traditions et les arts. Jadis terrestres, leur nature passive les a forcés à fuir les Florans pour s'établir sous les vagues, où leur civilisation prospère désormais."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "value": "Coul. écailles"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "value": "Nageoires"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "value": "Torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "value": "Jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Coul. nageoire"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "value": "Coul. jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "HYLOTL"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "value": "Personnalité"
+  }
+]

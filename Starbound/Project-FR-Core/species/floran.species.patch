@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "value": "Floran"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "value": "CO2"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Ne vous laissez pas tromper par leur air paisible ! Les Florans sont des chasseurs carnivores agressifs. Peu inventifs, ils excellent dans le vol et l'adaptation des technologies de leurs proies."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "value": "Coul. écorce"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "value": "Feuillage"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "value": "Torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "value": "Jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Coul. feuilles"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Coul. pérales"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "value": "Coul. jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "FLORAN"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "value": "Personnalité"
+  }
+]

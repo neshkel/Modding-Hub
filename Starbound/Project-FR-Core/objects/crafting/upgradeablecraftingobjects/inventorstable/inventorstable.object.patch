@@ -1,1 +1,37 @@
-[{"op":"add","path":"/builder","value":"/items/buildscripts/buildobject.lua"}]
+[
+  {
+    "op": "add",
+    "path": "/builder",
+    "value": "/items/buildscripts/buildobject.lua"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Table d'Inventeur"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/0/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Station d'innovation"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Table d'Ingénieur"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/1/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Station d'innovation"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/title",
+    "value": "Table d'Architecte"
+  },
+  {
+    "op": "replace",
+    "path": "/upgradeStages/2/interactData/paneLayoutOverride/windowtitle/subtitle",
+    "value": "Station d'innovation"
+  }
+]

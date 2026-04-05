@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "value": "Avian"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "value": "He"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Les Avians sont une race d'oiseaux colorés dont la culture tribale gravite autour du culte de Kluex, le dieu ailé de l'Éther. Leurs soldats sont entraînés dès la naissance pour devenir de féroces guerriers prêts à protéger leurs temples à tout prix."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "value": "Coul. plumes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "value": "Plumage"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "value": "Torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "value": "Jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Bec"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Duvet"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "value": "Coul. jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "AVIAN"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "value": "Personnalité"
+  }
+]

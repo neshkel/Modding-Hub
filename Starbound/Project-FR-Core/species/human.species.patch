@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "value": "Humain"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "value": "O2"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "En dépit de leur longue et turbulente histoire, les humains ont tendance à posséder une vision légère et optimiste de la vie et de l'univers. L'humanité a entrepris de former une société qui unirait les peuples de l'univers : le Protectorat Terrien."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "value": "Coul. peau"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "value": "Cheveux"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "value": "Torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "value": "Jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Coul. sous-vêt."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Coul. cheveux"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "value": "Coul. jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "HUMAIN"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "value": "Personnalité"
+  }
+]

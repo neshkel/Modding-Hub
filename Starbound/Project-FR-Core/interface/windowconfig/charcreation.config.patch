@@ -1,1 +1,87 @@
-[{"op":"replace","path":"/paneLayout/labelSpeciesRadio/value","value":"^#8d8d8d;RACES"},{"op":"replace","path":"/paneLayout/labelGender/value","value":"^#8d8d8d;GENRE"},{"op":"replace","path":"/paneLayout/labelCustomise/value","value":"^#8d8d8d;PERSONALISER"},{"op":"replace","path":"/paneLayout/labelName/value","value":"^#8d8d8d;NOM"},{"op":"replace","path":"/paneLayout/labelDifficulty/value","value":"^#8d8d8d;DIFFICULTÉ"},{"op":"replace","path":"/paneLayout/labelRandomise/value","value":"ALÉATOIRE:"},{"op":"replace","path":"/paneLayout/labelToggleClothing/value","value":"Voir vêtements"},{"op":"replace","path":"/paneLayout/labelPortrait/value","value":"HUMAIN"},{"op":"replace","path":"/paneLayout/saveChar/caption","value":"Valider"},{"op":"replace","path":"/paneLayout/cancel/caption","value":"Annuler"},{"op":"replace","path":"/paneLayout/labelCasualMode/value","value":"EXPLORATION"},{"op":"replace","path":"/paneLayout/labelSurvivalMode/value","value":"SURVIE"},{"op":"replace","path":"/paneLayout/labelHardcoreMode/value","value":"HARDCORE"},{"op":"replace","path":"/paneLayout/mode/buttons/0/data/description","value":"Sans faim, sans pénalité de mort."},{"op":"replace","path":"/paneLayout/mode/buttons/1/data/description","value":"Faim activé, perte des objets."},{"op":"replace","path":"/paneLayout/mode/buttons/2/data/description","value":"Quand vous mourrez, vous le restez!"},{"op":"replace","path":"/paneLayout/lblSkipIntro/value","value":"Passer le tutoriel"}]
+[
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSpeciesRadio/value",
+    "value": "^#8d8d8d;RACES"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelGender/value",
+    "value": "^#8d8d8d;GENRE"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelCustomise/value",
+    "value": "^#8d8d8d;PERSONALISER"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelName/value",
+    "value": "^#8d8d8d;NOM"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelDifficulty/value",
+    "value": "^#8d8d8d;DIFFICULTÉ"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelRandomise/value",
+    "value": "ALÉATOIRE:"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelToggleClothing/value",
+    "value": "Voir vêtements"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelPortrait/value",
+    "value": "HUMAIN"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/saveChar/caption",
+    "value": "Valider"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/cancel/caption",
+    "value": "Annuler"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelCasualMode/value",
+    "value": "DÉTENTE"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelSurvivalMode/value",
+    "value": "SURVIE"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/labelHardcoreMode/value",
+    "value": "HARDCORE"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/0/data/description",
+    "value": "Sans faim, sans pénalité de mort."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/1/data/description",
+    "value": "Faim activé, perte des objets."
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/mode/buttons/2/data/description",
+    "value": "Quand vous mourrez, vous le restez!"
+  },
+  {
+    "op": "replace",
+    "path": "/paneLayout/lblSkipIntro/value",
+    "value": "Passer le tutoriel"
+  }
+]

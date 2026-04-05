@@ -1,0 +1,67 @@
+[
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/title",
+    "value": "Ombre"
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/subTitle",
+    "value": "Eux seuls le savent..."
+  },
+  {
+    "op": "replace",
+    "path": "/charCreationTooltip/description",
+    "value": "Je n'ai aucune idée de ce qu'il faut mettre ici."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/0",
+    "value": "Coul. peau"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/1",
+    "value": "Cheveux"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/2",
+    "value": "Torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/3",
+    "value": "Jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/4",
+    "value": "Coul. sous-vêt."
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/5",
+    "value": "Coul. cheveux"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/6",
+    "value": "Coul. torse"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/7",
+    "value": "Coul. jambes"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/8",
+    "value": "HUMAIN"
+  },
+  {
+    "op": "replace",
+    "path": "/charGenTextLabels/9",
+    "value": "Personnalité"
+  }
+]

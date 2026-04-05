@@ -54,7 +54,8 @@ function generator.generateTooltips(config, parameters, level, seed, dToLoad)
       }
       for key, value in pairs(itemData.metadata) do
         if not blacklist[key] then
-          generator.setByPath(config, parameters, key, value)
+          generator.safeInject(config, key, value)
+          generator.safeInject(parameters, key, value)
         end
       end
     end

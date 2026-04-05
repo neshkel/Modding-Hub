@@ -83,34 +83,46 @@ function generator.getItemDictionary(itemType, itemName)
   return loadAsset(relativePath)
 end
 
---- Injects a value into a deep table structure using a dot-separated path.
---- @param config table The target configuration table.
---- @param parameters table The parameters table (often passed by the game engine).
---- @param path string Destination path (e.g., "metadata.ability.name").
---- @param value any The value to inject.
-function generator.setByPath(config, parameters, path, value)
+--- Safely injects a value into a table without overwriting existing structures.
+--- It ensures that the path exists before applying the translation to prevent object corruption.
+--- @param target table The target table (config or parameters) to modify.
+--- @param path string The dot-separated path (e.g., "upgradeStages.1.itemSpawnParameters.description").
+--- @param value any The localized value to inject.
+function generator.safeInject(target, path, value)
+  if type(target) ~= "table" then return end
+
   local keys = {}
   for key in string.gmatch(path, "([^.]+)") do
     table.insert(keys, tonumber(key) or key) 
   end
 
-  local nodeC, nodeP = config, parameters
-  
+  local current = target
   for i = 1, #keys - 1 do
     local k = keys[i]
-    local nextK = keys[i+1]
 
-    -- Recursively create missing nodes if they don't exist
-    if type(nodeC[k]) ~= "table" then nodeC[k] = {} end
-    if type(nodeP[k]) ~= "table" then nodeP[k] = {} end
+    -- PROTECTION: If the path does not exist or is not a table, 
+    -- we abort to avoid creating empty tables that could break the object's logic.
+    if current[k] == nil or type(current[k]) ~= "table" then
+      return 
+    end
 
-    nodeC, nodeP = nodeC[k], nodeP[k]
+    current = current[k]
   end
 
-  -- Synchronized final assignment between config and parameters
+  -- Final assignment only if the full path traversal was successful.
   local lastKey = keys[#keys]
-  nodeC[lastKey] = value
-  nodeP[lastKey] = value
+  current[lastKey] = value
+end
+
+--- Wrapper for setByPath that coordinates safe injection on both config and parameters.
+--- @param config table The base configuration.
+--- @param parameters table The instance parameters.
+--- @param path string The path to the field.
+--- @param value any The localized text.
+function generator.setByPath(config, parameters, path, value)
+  -- Inject into both tables while safeInject ensures structural integrity.
+  generator.safeInject(config, path, value)
+  generator.safeInject(parameters, path, value)
 end
 
 --- Global helper to retrieve a translation for a specific mod.
