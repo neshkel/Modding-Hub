@@ -1,1 +1,107 @@
-[{"op":"replace","path":"/reattack/default/default/0","value":"Encore toi!"},{"op":"replace","path":"/reattack/glitch/default/0","value":"Agressif. Cette fois, vous n'échapperez pas."},{"op":"replace","path":"/reattack/floran/default/0","value":"Floran va vous arrêter cette fois-ci!"},{"op":"replace","path":"/attack/default/default/0","value":"Restez là où vous êtes, enfreignant la loi!"},{"op":"replace","path":"/attack/floran/default/0","value":"asdasd"},{"op":"replace","path":"/attack/glitch/default/0","value":"Respectueux. Je t'emmènerai en prison spatiale!"},{"op":"replace","path":"/killedTarget/default/default/0","value":"Vous avez le droit de rester mort."},{"op":"replace","path":"/killedTarget/glitch/default/0","value":"Triste. Tuer n'était pas nécessaire."},{"op":"replace","path":"/killedTarget/floran/default/0","value":"Les criminels auraient dû se rendre..."},{"op":"replace","path":"/lostTarget/default/default/0","value":"Nous vous trouverons!"},{"op":"replace","path":"/lostTarget/glitch/default/0","value":"Patient. Je vais juste attendre ici jusqu'à ce que tu reviennes."},{"op":"replace","path":"/lostTarget/floran/default/0","value":"Floran est un bon protecteur, trouvera des proies!"},{"op":"replace","path":"/outOfSight/default/default/0","value":"Nous vous trouverons!"},{"op":"replace","path":"/outOfSight/glitch/default/0","value":"Patient. Je vais juste attendre ici jusqu'à ce que tu reviennes."},{"op":"replace","path":"/outOfSight/floran/default/0","value":"Floran est un bon protecteur, trouvera des proies!"},{"op":"replace","path":"/cantReach/default/default/0","value":"Ils s'enfuient!"},{"op":"replace","path":"/cantReach/glitch/default/0","value":"Irrité. Leur crime est hors de ma portée!"},{"op":"replace","path":"/cantReach/floran/default/0","value":"Floran n'est pas assez rapide!"},{"op":"replace","path":"/cheerOn/default/default/0","value":"Éliminez la racaille criminelle!"},{"op":"replace","path":"/cheerOn/glitch/default/0","value":"Encourageant. Menottez-les!"},{"op":"replace","path":"/cheerOn/floran/default/0","value":"Capturez les criminels!"}]
+[
+  {
+    "op": "replace",
+    "path": "/reattack/default/default/0",
+    "value": "Encore toi!"
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/glitch/default/0",
+    "value": "Agressif. Cette fois, vous n'échapperez pas."
+  },
+  {
+    "op": "replace",
+    "path": "/reattack/floran/default/0",
+    "value": "Floran va vous arrêter cette fois-ci!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/default/default/0",
+    "value": "Restez là où vous êtes, enfreignant la loi!"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/floran/default/0",
+    "value": "asdasd"
+  },
+  {
+    "op": "replace",
+    "path": "/attack/glitch/default/0",
+    "value": "Respectueux. Je t'emmènerai en prison spatiale!"
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/default/default/0",
+    "value": "Vous avez le droit de rester mort."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/glitch/default/0",
+    "value": "Triste. Tuer n'était pas nécessaire."
+  },
+  {
+    "op": "replace",
+    "path": "/killedTarget/floran/default/0",
+    "value": "Les criminels auraient dû se rendre..."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/default/default/0",
+    "value": "Nous vous trouverons!"
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/glitch/default/0",
+    "value": "Patient. Je vais juste attendre ici jusqu'à ce que tu reviennes."
+  },
+  {
+    "op": "replace",
+    "path": "/lostTarget/floran/default/0",
+    "value": "Floran est un bon protecteur, trouvera des proies!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/default/default/0",
+    "value": "Nous vous trouverons!"
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/glitch/default/0",
+    "value": "Patient. Je vais juste attendre ici jusqu'à ce que tu reviennes."
+  },
+  {
+    "op": "replace",
+    "path": "/outOfSight/floran/default/0",
+    "value": "Floran est un bon protecteur, trouvera des proies!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/default/default/0",
+    "value": "Ils s'enfuient!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/glitch/default/0",
+    "value": "Irrité. Leur crime est hors de ma portée!"
+  },
+  {
+    "op": "replace",
+    "path": "/cantReach/floran/default/0",
+    "value": "Floran n'est pas assez rapide!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/default/default/0",
+    "value": "Éliminez la racaille criminelle!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/glitch/default/0",
+    "value": "Encourageant. Menottez-les!"
+  },
+  {
+    "op": "replace",
+    "path": "/cheerOn/floran/default/0",
+    "value": "Capturez les criminels!"
+  }
+]

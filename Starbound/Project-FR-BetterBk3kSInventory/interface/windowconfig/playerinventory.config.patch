@@ -68,16 +68,5 @@
     "op": "replace",
     "path": "/paneLayout/trash/data/tooltipText",
     "value": "Poubelle"
-  },
-  {
-    "op": "add",
-    "path": "/paneLayout/labelinventory",
-    "value": {
-      "type" : "label",
-      "position" : [0, 0],
-      "hAnchor" : "mid",
-      "value" : "",
-      "color" : [185, 181, 178]
-    }
   }
 ]

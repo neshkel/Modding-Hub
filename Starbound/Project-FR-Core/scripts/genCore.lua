@@ -6,31 +6,48 @@ generator = generator or {}
 --- Internal cache shared across all script instances to optimize performance and disk I/O.
 _TRAD_CACHE = _TRAD_CACHE or { generics = nil, files = {} }
 
---- Loads a JSON file with error handling and caching.
---- @param path string The absolute path to the asset.
---- @return table Returns the loaded table or an empty table if the load fails.
-local function loadAsset(path)
-  if _TRAD_CACHE.files[path] then return _TRAD_CACHE.files[path] end
+--- Internal function to load JSON assets with an automated locale routing.
+--- This ensures the engine looks into the correct language subfolder.
+--- @param relativePath string The path relative to the locale folder (e.g., "/items/a.config").
+--- @return table The loaded dictionary or an empty table on failure.
+local function loadAsset(relativePath)
+  -- Retrieve global configuration (defines the active language)
+  local config = root.assetJson("/gen_conf.config")
+  local locale = config.locale or "fr"
   
-  local status, data = pcall(root.assetJson, path)
-  local result = (status and type(data) == "table") and data or {}
+  -- Construct the localized path: /dictionary/{locale}/{relativePath}
+  local fullPath = "/dictionary/" .. locale .. relativePath
+
+  -- Return from memory cache if already loaded to save I/O cycles
+  if _TRAD_CACHE.files[fullPath] then return _TRAD_CACHE.files[fullPath] end
   
-  _TRAD_CACHE.files[path] = result
-  return result
+  -- Safe call to prevent engine crashes if the file is missing or corrupted
+  local status, data = pcall(root.assetJson, fullPath)
+  
+  -- Fallback logic: if the file is missing in the target locale, 
+  -- we return an empty table to prevent downstream nil-value errors.
+  if not status or type(data) ~= "table" then
+    data = {}
+  end
+
+  -- Store the result in cache before returning
+  _TRAD_CACHE.files[fullPath] = data
+  return data
 end
 
 --- Retrieves common translations (UI, rarities, categories, abilities, etc.).
 --- @return table The dictionary table for generic terms.
 function generator.getGenerics()
   if not _TRAD_CACHE.generics then
-    _TRAD_CACHE.generics = loadAsset("/dictionary/generics.config")
+    _TRAD_CACHE.generics = loadAsset("/generics.config")
     -- S'assure que les clés de base existent pour éviter des crashs plus loin
-    _TRAD_CACHE.generics.ui = _TRAD_CACHE.generics.ui or {}
-    _TRAD_CACHE.generics.rarity = _TRAD_CACHE.generics.rarity or {}
-    _TRAD_CACHE.generics.category = _TRAD_CACHE.generics.category or {}
-    _TRAD_CACHE.generics.ability = _TRAD_CACHE.generics.ability or {}
-    _TRAD_CACHE.generics.combofinisher = _TRAD_CACHE.generics.combofinisher or {}
-    _TRAD_CACHE.generics.elementaltype = _TRAD_CACHE.generics.elementaltype or {}
+    local g = _TRAD_CACHE.generics
+    g.ui              = g.ui or {}
+    g.rarity          = g.rarity or {}
+    g.category        = g.category or {}
+    g.ability         = g.ability or {}
+    g.combofinisher   = g.combofinisher or {}
+    g.elementaltype   = g.elementaltype or {}
   end
   return _TRAD_CACHE.generics
 end
@@ -39,7 +56,7 @@ end
 --- @param dName string File name (without extension).
 --- @return table The requested dictionary content.
 function generator.getDictionary(dName)
-  return loadAsset(string.format("/dictionary/%s.config", dName))
+  return loadAsset(string.format("/%s.config", dName))
 end
 
 --- Locates the appropriate item dictionary, handling letter-based segmentation (A-Z, 0-9).
@@ -48,7 +65,7 @@ end
 --- @return table The corresponding translation dictionary.
 function generator.getItemDictionary(itemType, itemName)
   itemType = itemType or "items"
-  local path = "/dictionary/" .. itemType .. ".config"
+  local relativePath = "/" .. itemType .. ".config"
 
   -- List of large types requiring segmented folder structures for better performance
   local segmentedTypes = { 
@@ -60,10 +77,10 @@ function generator.getItemDictionary(itemType, itemName)
     local firstLetter = string.sub(itemName, 1, 1):lower()
     -- Normalization for file names starting with a digit
     if string.match(firstLetter, "%d") then firstLetter = "0" end
-    path = string.format("/dictionary/%s/%s.config", itemType, firstLetter)
+    relativePath = string.format("/%s/%s.config", itemType, firstLetter)
   end
 
-  return loadAsset(path)
+  return loadAsset(relativePath)
 end
 
 --- Injects a value into a deep table structure using a dot-separated path.

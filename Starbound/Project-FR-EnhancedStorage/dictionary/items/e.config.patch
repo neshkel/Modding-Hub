@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/enhancedstoragematerial",
+    "value": {
+      "name": "Matière de Stockage",
+      "desc": "Une matière mystérieuse capable d'être transformée via la Matrice de Stockage."
+    }
+  }
+]

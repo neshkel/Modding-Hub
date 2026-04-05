@@ -1,1 +1,332 @@
-[{"op":"replace","path":"/converse/default/default/0","value":"Officier <selfname>, au rapport pour... La paperasse."},{"op":"replace","path":"/converse/default/default/1","value":"Officier <selfname>, là pour vous aider! Le Capitaine m'a demandé de rechercher des cas à vous confier!"},{"op":"replace","path":"/converse/default/default/2","value":"Le capitaine Noble m'a tout raconté sur le bien que font les Casques bleus. Je pense que c'est en grande partie grâce à vous!"},{"op":"replace","path":"/converse/default/default/3","value":"J'enquête sur la Letheia Corporation pour fraude massive! C'est une... grosse affaire."},{"op":"replace","path":"/converse/default/default/4","value":"J'aimerais bien avoir mon PROPRE bureau un jour."},{"op":"replace","path":"/converse/default/default/5","value":"Gardez la tête haute, Officier. C'est un travail difficile mais je crois en vous!"},{"op":"replace","path":"/converse/default/default/6","value":"J'ai décidé que je serais un Protecteur intransigeant! Attention, criminels!"},{"op":"replace","path":"/converse/default/default/7","value":"Le Capitaine Noble me demande de trouver de nouveaux cas pour vous, Officier <entityname>!"},{"op":"replace","path":"/converse/default/default/8","value":"J'ai rejoint les Protecteurs principalement grâce à l'enthousiasme du capitaine. Quel charisme!"},{"op":"replace","path":"/converse/default/default/9","value":"Le capitaine me demande d'enquêter sur les activités criminelles locales. Ces gangs choisissent certainement les noms de gangs les plus étranges, hein?"},{"op":"replace","path":"/converse/default/default/10","value":"Sans un manipulateur de matière, je ne peux pas effectuer beaucoup de travail sur le terrain. Pas comme toi, officier <entityname>!"},{"op":"replace","path":"/converse/default/default/11","value":"Vous êtes officier <entityname>?! J'ai tellement entendu parler de vous par le capitaine! Vous avez l'air différent de ce que j'imaginais..."},{"op":"replace","path":"/converse/default/default/12","value":"Officier <entityname>? Le capitaine dit que c'est vous que nous devons remercier pour avoir rendu tout cela possible!"},{"op":"replace","path":"/converse/default/default/13","value":"Est-ce juste moi, ou l'emblème des Protecteurs ressemble-t-il à un grand visage souriant? Je ne peux pas l'ignorer!"},{"op":"replace","path":"/converse/default/default/14","value":"Je suppose que nous ne sommes plus vraiment des Casques bleus « Terrene » maintenant que la Terre a disparu..."},{"op":"replace","path":"/converse/apex/default/0","value":"Salutations, Officier <entityname>!"},{"op":"replace","path":"/converse/apex/default/1","value":"Officier <selfname>, à votre service! Eh bien, pas maintenant. Je suis assez occupé."},{"op":"replace","path":"/converse/apex/default/2","value":"Si le crime ne dort pas, moi non plus, officier <entityname>!"},{"op":"replace","path":"/converse/apex/default/3","value":"Je vais gravir les échelons de la chaîne des Protecteurs jusqu'à ce que je puisse affronter moi-même le Miniknog!"},{"op":"replace","path":"/converse/apex/default/4","value":"Être un Protecteur est une chance pour moi de ramener du bien dans l'univers!"},{"op":"replace","path":"/converse/apex/default/5","value":"Nous recevons beaucoup de paperasse concernant des monstres à vaincre dans notre district. J'espère que vous êtes prêt au combat!"},{"op":"replace","path":"/converse/apex/default/6","value":"Il y a quelques nouveaux cas que j'ai étudiés juste pour vous, Officier <entityname>."},{"op":"replace","path":"/converse/apex/default/7","value":"J'ai vu suffisamment de combats pour une vie, donc je suis principalement ici à faire des recherches pour de nouvelles primes."},{"op":"replace","path":"/converse/apex/default/8","value":"J'ai un sens aigu de la justice, donc le rôle de Protecteur est parfait pour moi!"},{"op":"replace","path":"/converse/apex/default/9","value":"Devenir un Protecteur m'a enfin donné un rôle dans la vie qui me permet de faire vraiment du bien à la galaxie."},{"op":"replace","path":"/converse/hylotl/default/0","value":"Combattre la criminalité spatiale est une tâche tellement ardue... J'ai l'impression de n'être qu'une goutte dans l'océan."},{"op":"replace","path":"/converse/hylotl/default/1","value":"Je ne peux pas parler maintenant, j'ai des cas complexes à résoudre dans ma tête."},{"op":"replace","path":"/converse/hylotl/default/2","value":"Mon troisième œil peut réellement VOIR la justice. N'est-ce pas impressionnant?"},{"op":"replace","path":"/converse/hylotl/default/3","value":"Qu'est-ce que ça fait d'être le favori du capitaine, officier <entityname>?"},{"op":"replace","path":"/converse/hylotl/default/4","value":"Ces gangs spatiaux locaux ont un sens du style vraiment épouvantable. Vous n'êtes pas d'accord?"},{"op":"replace","path":"/converse/hylotl/default/5","value":"Ne trouvez-vous pas étrange que les gangs portent des chapeaux pour se distinguer des criminels rivaux?"},{"op":"replace","path":"/converse/hylotl/default/6","value":"Officier <entityname>? Le capitaine m'a dit que c'était vous qui aviez aidé à relancer cette opération. Vous avez mon admiration."},{"op":"replace","path":"/converse/floran/default/0","value":"Le nom de Floran est <selfname>. Floran vous dit bonjour!"},{"op":"replace","path":"/converse/floran/default/1","value":"Floran est un gardien de la paix. Floran garde la paix et ne la mange pas."},{"op":"replace","path":"/converse/floran/default/2","value":"Floran fait de bonnes choses. Florane fière."},{"op":"replace","path":"/converse/floran/default/3","value":"Floran est Officier <selfname>! Le travail de Floran consiste à surveiller les méchants."},{"op":"replace","path":"/converse/floran/default/4","value":"Floran est Officier <selfname>! Floran décide d'enquêter. Floran est une travailleuse acharnée."},{"op":"replace","path":"/converse/floran/default/5","value":"Floran fait beaucoup de paperasse. Le papier est-il fabriqué à partir de plantes? Florane inquiète."},{"op":"replace","path":"/converse/floran/default/6","value":"Floran travaille dur pour trouver de nouvelles casses pour Officier <entityname>!"},{"op":"replace","path":"/converse/glitch/default/0","value":"Accueillant. Je m'appelle Officier <selfname>, et je suis là pour aider à la prolifération de la justice!"},{"op":"replace","path":"/converse/glitch/default/1","value":"Fatigué. Je travaille dans cette équipe depuis longtemps."},{"op":"replace","path":"/converse/glitch/default/2","value":"Vaillant. Je suis déterminé à ramener la paix dans ce secteur!"},{"op":"replace","path":"/converse/glitch/default/3","value":"Désireux. Tant que je serai debout, je rendrai justice aux étoiles!"},{"op":"replace","path":"/converse/glitch/default/4","value":"Impressionné. Le Capitaine m'a informé de vos prouesses, Officier <entityname>."},{"op":"replace","path":"/converse/glitch/default/5","value":"Désireux. Le capitaine respire la confiance. J'espère un jour être à moitié aussi inspirant que lui!"},{"op":"replace","path":"/converse/glitch/default/6","value":"Amical. Bien accueilli, Officier <entityname>!"},{"op":"replace","path":"/converse/glitch/default/7","value":"Vain. Si je dois être vraiment honnête, je suis devenu un gardien de la paix et je peux donc porter cet uniforme élégant."},{"op":"replace","path":"/converse/glitch/default/8","value":"Déterminé. J'ai enquêté sur un gang criminel et je suis sur le point de faire une percée."},{"op":"replace","path":"/converse/avian/default/0","value":"Eh bien, ébouriffez-moi - un nouveau visage sympathique!"},{"op":"replace","path":"/converse/avian/default/1","value":"Eh bien, ébouriffe mes plumes - tu es un officier <entityname>! Le Capitaine a des mots si gentils à dire à votre sujet!"},{"op":"replace","path":"/converse/avian/default/2","value":"Les Protecteurs sont une lumière dans les ténèbres de notre univers. Comment pourrais-je ne pas adhérer?"},{"op":"replace","path":"/converse/avian/default/3","value":"J'espère qu'en devenant un gardien de la paix et en aidant les gens, je pourrai inspirer les autres à s'améliorer!"},{"op":"replace","path":"/converse/avian/default/4","value":"Mon rôle est de recueillir des informations sur nos gangs locaux. C'est votre travail, officier <entityname>, pour leur mener le combat!"},{"op":"replace","path":"/converse/avian/default/5","value":"Voyager à travers les étoiles, rendre justice aux méchants... C'est mon devoir ici!"},{"op":"replace","path":"/converse/avian/default/6","value":"Bonjour, je suis officier <selfname>, sur l'affaire avec un visage heureux!"},{"op":"replace","path":"/converse/avian/default/7","value":"C'est mon premier travail! J'espère que je ne me tromperai pas!"},{"op":"replace","path":"/converse/novakid/default/0","value":"Je suis le shérif par ici... En fait, je n'ai pas encore atteint le rang de shérif."},{"op":"replace","path":"/converse/novakid/default/1","value":"Il n'y a pas de repos pour les méchants - n'est-ce pas, officier <entityname>?"},{"op":"replace","path":"/converse/novakid/default/2","value":"Officier <selfname>C'est le nom, et je suis là pour aider le capitaine à instaurer l'état de droit dans ces régions!"},{"op":"replace","path":"/converse/novakid/default/3","value":"Salut! je suis officier <selfname>, et je suis prêt à éliminer des méchants!"},{"op":"replace","path":"/converse/novakid/default/4","value":"Bonjour, Officier <entityname>! Prêt à affronter les méchants?"},{"op":"replace","path":"/converse/novakid/default/5","value":"La rumeur circule dans la station que vous êtes un vrai tireur d'élite, officier <entityname>!"},{"op":"replace","path":"/converse/novakid/default/6","value":"Ce n'est pas facile de se fondre dans ces pièces quand on s'illumine comme un après-midi d'été."},{"op":"replace","path":"/converse/novakid/default/7","value":"Le capitaine est vraiment beau, vous ne trouvez pas? Je me demande s'il est célibataire..."},{"op":"replace","path":"/converse/novakid/default/8","value":"Je vais être vraiment honnête avec vous, officier <entityname>. Je me suis engagé principalement parce que le capitaine est extrêmement beau."},{"op":"replace","path":"/converse/novakid/default/9","value":"Bonjour, Officier <entityname>! Savez-vous si le capitaine Noble est célibataire? Je cherche... un ami."}]
+[
+  {
+    "op": "replace",
+    "path": "/converse/default/default/0",
+    "value": "Officier <selfname>, au rapport pour... La paperasse."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/1",
+    "value": "Officier <selfname>, là pour vous aider! Le Capitaine m'a demandé de rechercher des cas à vous confier!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/2",
+    "value": "Le capitaine Noble m'a tout raconté sur le bien que font les Casques bleus. Je pense que c'est en grande partie grâce à vous!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/3",
+    "value": "J'enquête sur la Letheia Corporation pour fraude massive! C'est une... grosse affaire."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/4",
+    "value": "J'aimerais bien avoir mon PROPRE bureau un jour."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/5",
+    "value": "Gardez la tête haute, Officier. C'est un travail difficile mais je crois en vous!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/6",
+    "value": "J'ai décidé que je serais un Protecteur intransigeant! Attention, criminels!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/7",
+    "value": "Le Capitaine Noble me demande de trouver de nouveaux cas pour vous, Officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/8",
+    "value": "J'ai rejoint les Protecteurs principalement grâce à l'enthousiasme du capitaine. Quel charisme!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/9",
+    "value": "Le capitaine me demande d'enquêter sur les activités criminelles locales. Ces gangs choisissent certainement les noms de gangs les plus étranges, hein?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/10",
+    "value": "Sans un manipulateur de matière, je ne peux pas effectuer beaucoup de travail sur le terrain. Pas comme toi, officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/11",
+    "value": "Vous êtes officier <entityname>?! J'ai tellement entendu parler de vous par le capitaine! Vous avez l'air différent de ce que j'imaginais..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/12",
+    "value": "Officier <entityname>? Le capitaine dit que c'est vous que nous devons remercier pour avoir rendu tout cela possible!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/13",
+    "value": "Est-ce juste moi, ou l'emblème des Protecteurs ressemble-t-il à un grand visage souriant? Je ne peux pas l'ignorer!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/default/default/14",
+    "value": "Je suppose que nous ne sommes plus vraiment des Casques bleus « Terrene » maintenant que la Terre a disparu..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/0",
+    "value": "Salutations, Officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/1",
+    "value": "Officier <selfname>, à votre service! Eh bien, pas maintenant. Je suis assez occupé."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/2",
+    "value": "Si le crime ne dort pas, moi non plus, officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/3",
+    "value": "Je vais gravir les échelons de la chaîne des Protecteurs jusqu'à ce que je puisse affronter moi-même le Miniknog!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/4",
+    "value": "Être un Protecteur est une chance pour moi de ramener du bien dans l'univers!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/5",
+    "value": "Nous recevons beaucoup de paperasse concernant des monstres à vaincre dans notre district. J'espère que vous êtes prêt au combat!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/6",
+    "value": "Il y a quelques nouveaux cas que j'ai étudiés juste pour vous, Officier <entityname>."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/7",
+    "value": "J'ai vu suffisamment de combats pour une vie, donc je suis principalement ici à faire des recherches pour de nouvelles primes."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/8",
+    "value": "J'ai un sens aigu de la justice, donc le rôle de Protecteur est parfait pour moi!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/apex/default/9",
+    "value": "Devenir un Protecteur m'a enfin donné un rôle dans la vie qui me permet de faire vraiment du bien à la galaxie."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/0",
+    "value": "Combattre la criminalité spatiale est une tâche tellement ardue... J'ai l'impression de n'être qu'une goutte dans l'océan."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/1",
+    "value": "Je ne peux pas parler maintenant, j'ai des cas complexes à résoudre dans ma tête."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/2",
+    "value": "Mon troisième œil peut réellement VOIR la justice. N'est-ce pas impressionnant?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/3",
+    "value": "Qu'est-ce que ça fait d'être le favori du capitaine, officier <entityname>?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/4",
+    "value": "Ces gangs spatiaux locaux ont un sens du style vraiment épouvantable. Vous n'êtes pas d'accord?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/5",
+    "value": "Ne trouvez-vous pas étrange que les gangs portent des chapeaux pour se distinguer des criminels rivaux?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/hylotl/default/6",
+    "value": "Officier <entityname>? Le capitaine m'a dit que c'était vous qui aviez aidé à relancer cette opération. Vous avez mon admiration."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/0",
+    "value": "Le nom de Floran est <selfname>. Floran vous dit bonjour!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/1",
+    "value": "Floran est un gardien de la paix. Floran garde la paix et ne la mange pas."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/2",
+    "value": "Floran fait de bonnes choses. Florane fière."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/3",
+    "value": "Floran est Officier <selfname>! Le travail de Floran consiste à surveiller les méchants."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/4",
+    "value": "Floran est Officier <selfname>! Floran décide d'enquêter. Floran est une travailleuse acharnée."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/5",
+    "value": "Floran fait beaucoup de paperasse. Le papier est-il fabriqué à partir de plantes? Florane inquiète."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/floran/default/6",
+    "value": "Floran travaille dur pour trouver de nouvelles casses pour Officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/0",
+    "value": "Accueillant. Je m'appelle Officier <selfname>, et je suis là pour aider à la prolifération de la justice!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/1",
+    "value": "Fatigué. Je travaille dans cette équipe depuis longtemps."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/2",
+    "value": "Vaillant. Je suis déterminé à ramener la paix dans ce secteur!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/3",
+    "value": "Désireux. Tant que je serai debout, je rendrai justice aux étoiles!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/4",
+    "value": "Impressionné. Le Capitaine m'a informé de vos prouesses, Officier <entityname>."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/5",
+    "value": "Désireux. Le capitaine respire la confiance. J'espère un jour être à moitié aussi inspirant que lui!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/6",
+    "value": "Amical. Bien accueilli, Officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/7",
+    "value": "Vain. Si je dois être vraiment honnête, je suis devenu un gardien de la paix et je peux donc porter cet uniforme élégant."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/glitch/default/8",
+    "value": "Déterminé. J'ai enquêté sur un gang criminel et je suis sur le point de faire une percée."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/0",
+    "value": "Eh bien, ébouriffez-moi - un nouveau visage sympathique!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/1",
+    "value": "Eh bien, ébouriffe mes plumes - tu es un officier <entityname>! Le Capitaine a des mots si gentils à dire à votre sujet!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/2",
+    "value": "Les Protecteurs sont une lumière dans les ténèbres de notre univers. Comment pourrais-je ne pas adhérer?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/3",
+    "value": "J'espère qu'en devenant un gardien de la paix et en aidant les gens, je pourrai inspirer les autres à s'améliorer!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/4",
+    "value": "Mon rôle est de recueillir des informations sur nos gangs locaux. C'est votre travail, officier <entityname>, pour leur mener le combat!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/5",
+    "value": "Voyager à travers les étoiles, rendre justice aux méchants... C'est mon devoir ici!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/6",
+    "value": "Bonjour, je suis officier <selfname>, sur l'affaire avec un visage heureux!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/avian/default/7",
+    "value": "C'est mon premier travail! J'espère que je ne me tromperai pas!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/0",
+    "value": "Je suis le shérif par ici... En fait, je n'ai pas encore atteint le rang de shérif."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/1",
+    "value": "Il n'y a pas de repos pour les méchants - n'est-ce pas, officier <entityname>?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/2",
+    "value": "Officier <selfname>C'est le nom, et je suis là pour aider le capitaine à instaurer l'état de droit dans ces régions!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/3",
+    "value": "Salut! je suis officier <selfname>, et je suis prêt à éliminer des méchants!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/4",
+    "value": "Bonjour, Officier <entityname>! Prêt à affronter les méchants?"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/5",
+    "value": "La rumeur circule dans la station que vous êtes un vrai tireur d'élite, officier <entityname>!"
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/6",
+    "value": "Ce n'est pas facile de se fondre dans ces pièces quand on s'illumine comme un après-midi d'été."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/7",
+    "value": "Le capitaine est vraiment beau, vous ne trouvez pas? Je me demande s'il est célibataire..."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/8",
+    "value": "Je vais être vraiment honnête avec vous, officier <entityname>. Je me suis engagé principalement parce que le capitaine est extrêmement beau."
+  },
+  {
+    "op": "replace",
+    "path": "/converse/novakid/default/9",
+    "value": "Bonjour, Officier <entityname>! Savez-vous si le capitaine Noble est célibataire? Je cherche... un ami."
+  }
+]

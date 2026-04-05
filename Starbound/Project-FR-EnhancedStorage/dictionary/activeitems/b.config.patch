@@ -1,0 +1,10 @@
+[
+  {
+    "op": "add",
+    "path": "/blueprintbox",
+    "value": {
+      "name": "Coffre à Schéma",
+      "desc": "Ouvrez cette boîte pour découvrir ce qu'elle cache. Quelle surprise vous attend?"
+    }
+  }
+]
